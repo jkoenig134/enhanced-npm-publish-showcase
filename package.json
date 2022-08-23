@@ -1,0 +1,11 @@
+{
+  "name": "@jkoenig134/a-random-test-package",
+  "version": "1.0.0",
+  "files": [
+    "index.js"
+  ],
+  "description": "Demo for the https://www.npmjs.com/package/enhanced-publish package.",
+  "main": "index.js",
+  "author": "Julian König",
+  "license": "MIT"
+}
